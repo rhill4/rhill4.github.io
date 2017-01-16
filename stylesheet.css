@@ -15,7 +15,8 @@ h2 {font-style: none;
     font-family: 'Rokkitt', serif;
     margin:15px;}
 
-
+a:link {color:blue;}
+a:visited { color: blue;}
     
 /*Services*/
 
